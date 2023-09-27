@@ -7,7 +7,8 @@ function CreateProduct() {
 
 
     return (
-        <>            {/* Product adding section */}
+        <>            
+        {/* Product adding section */}
             <div className={MyStyles.productContainer}>
                 <div className={MyStyles.productTitle}>
                     Add New Product
